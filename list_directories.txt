@@ -1,0 +1,19 @@
+{
+    "Questao9": "1446 bytes",
+    "Questao8.C.py": "1209 bytes",
+    "Questao6-server.py": "1182 bytes",
+    "Questao8.B.py": "1010 bytes",
+    "Questao5.py": "965 bytes",
+    "Questao6-client.py": "807 bytes",
+    "Questao7-server.py": "801 bytes",
+    "Questao7-client.py": "782 bytes",
+    "Questao3.py": "666 bytes",
+    "list_directories.txt": "590 bytes",
+    "Questao1.py": "536 bytes",
+    "Questao8.A.py": "483 bytes",
+    "Questao4.py": "309 bytes",
+    "Questao2.py": "105 bytes",
+    "b.txt": "34 bytes",
+    "file.txt": "33 bytes",
+    "a.txt": "22 bytes"
+}
